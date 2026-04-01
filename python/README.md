@@ -8,9 +8,9 @@ pip install pyjwt[crypto] httpx
 
 ### Usage
 
-```
-from oauth2 import OAuth2
+Import the OAuth2 class as required. To instantiate and authenticate:
 
+```
 oa = OAuth2(credentials_location={PATH_TO_CREDENTIALS_FILE})
 oa.authenticate()
 ```
