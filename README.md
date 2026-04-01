@@ -1,6 +1,4 @@
-# Web API
-
-## OAuth 2.0 Client
+# Web API OAuth 2.0 Client
 
 ### Requirements
 
